@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.cache/
+.venv/
+
+# Pipeline output (intermediate — final results go in frontend/public/data/)
+output/
+
+# Node / Next.js
+node_modules/
+.next/
+
+# OS
+.DS_Store
+Thumbs.db
